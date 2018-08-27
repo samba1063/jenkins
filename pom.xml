@@ -42,7 +42,7 @@
         </configuration>
      </plugin>
 </plugins>
-    <finalName>vsvyadav-${build.number}</finalName>
+    <finalName>sambasiva-${build.number}</finalName>
   </build>
 </project>
 
